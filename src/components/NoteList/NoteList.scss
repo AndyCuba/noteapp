@@ -1,0 +1,49 @@
+.notesList {
+    h2 {
+        font-size: 2rem;
+    };
+};
+
+.notesList__ul {
+    li {
+        list-style: none;
+        font-size: 1.5rem;
+        border-bottom: 0.05rem solid black;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-end;
+        margin-bottom: 0.5rem;
+        button {
+            cursor: pointer;
+        };
+        p {
+            display: inline-block;            
+            padding-right: 1rem;
+        };
+        div {
+            display: inline-block;
+        };
+    };   
+};
+
+.notesList__delete_button {
+    background: url('../../images/trash.svg') no-repeat center/cover;
+    width: 1.3rem;
+    height: 1.3rem;
+    outline: none;
+    border: none;
+    &:active {
+        transform: scale(0.9);
+    };
+};
+
+.notesList__edit_link {
+    display: inline-block;
+    background: url('../../images/edit.svg') no-repeat center/cover;
+    width: 1.3rem;
+    height: 1.3rem;
+    margin-right: 0.5rem;
+    &:active {
+        transform: scale(0.9);
+    };
+};

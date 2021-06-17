@@ -1,0 +1,31 @@
+.tagList {
+    padding: 1rem 0;
+    ul {
+        display: flex;
+    };
+};
+
+.tagList__tag {
+    display: flex;
+    flex-direction: row;
+    padding: 0.1rem;
+    cursor: pointer;
+    button {
+        background: url('../../images/trash.svg') no-repeat center/cover;
+        width: 1.2rem;
+        height: 1.2rem;
+        outline: none;
+        border: none;
+        cursor: pointer;
+        &:active {
+            transform: scale(0.9);
+        };
+    };
+};
+.active {
+    
+    &.tagList__tag {
+        border: 0.2rem solid black;
+        border-radius: 0.2rem;
+    };
+};

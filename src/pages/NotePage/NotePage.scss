@@ -1,0 +1,21 @@
+.highlight {
+    color: green;
+    background-color: #d4e9ab;
+};
+
+.notePage {
+   h2 {
+       padding: 1rem 0;
+   };
+   button {
+    font-size: 1.5rem;
+    cursor: pointer;
+   };
+};
+
+.notePage__input-area {
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.5rem;
+    margin-right: 1rem;
+};

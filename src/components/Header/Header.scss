@@ -1,0 +1,18 @@
+
+.header {
+    background: url('../../images/woodBg.jpg') no-repeat center/cover;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    h1 {
+        font-size: 2.5rem;
+    };
+    a {
+        color:rgb(247, 237, 211);
+        text-decoration: none;
+        &:hover {
+            color:white;
+        };
+    };
+};
