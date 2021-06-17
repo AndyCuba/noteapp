@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/noteapp/static/css/main.ddb6c912.chunk.css",
+    "main.js": "/noteapp/static/js/main.dccf570f.chunk.js",
+    "main.js.map": "/noteapp/static/js/main.dccf570f.chunk.js.map",
+    "runtime-main.js": "/noteapp/static/js/runtime-main.59d2c0d8.js",
+    "runtime-main.js.map": "/noteapp/static/js/runtime-main.59d2c0d8.js.map",
+    "static/js/2.3e8a1d26.chunk.js": "/noteapp/static/js/2.3e8a1d26.chunk.js",
+    "static/js/2.3e8a1d26.chunk.js.map": "/noteapp/static/js/2.3e8a1d26.chunk.js.map",
+    "index.html": "/noteapp/index.html",
+    "static/css/main.ddb6c912.chunk.css.map": "/noteapp/static/css/main.ddb6c912.chunk.css.map",
+    "static/js/2.3e8a1d26.chunk.js.LICENSE.txt": "/noteapp/static/js/2.3e8a1d26.chunk.js.LICENSE.txt",
+    "static/media/NoteList.scss": "/noteapp/static/media/edit.5949b23d.svg",
+    "static/media/App.scss": "/noteapp/static/media/mainBg.a7ee8f8e.jpg",
+    "static/media/TagList.scss": "/noteapp/static/media/trash.bb8494aa.svg",
+    "static/media/Header.scss": "/noteapp/static/media/woodBg.63c29edc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59d2c0d8.js",
+    "static/js/2.3e8a1d26.chunk.js",
+    "static/css/main.ddb6c912.chunk.css",
+    "static/js/main.dccf570f.chunk.js"
+  ]
+}
